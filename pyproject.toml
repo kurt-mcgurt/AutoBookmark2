@@ -1,0 +1,15 @@
+[project]
+name = "AutoBookmark"
+version = "0.1.0"
+description = "A PDF processing app using Google Gemini and Gradio"
+requires-python = ">=3.11"
+dependencies = [
+  "google-genai",
+  "pydantic",
+  "pillow",
+  "gradio"
+]
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"

@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: AutoBookmark
+Version: 0.1.0
+Summary: A PDF processing app using Google Gemini and Gradio
+Requires-Python: >=3.11
+Requires-Dist: google-genai
+Requires-Dist: pydantic
+Requires-Dist: pillow
+Requires-Dist: gradio

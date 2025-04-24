@@ -1,0 +1,7 @@
+app.py
+pyproject.toml
+AutoBookmark.egg-info/PKG-INFO
+AutoBookmark.egg-info/SOURCES.txt
+AutoBookmark.egg-info/dependency_links.txt
+AutoBookmark.egg-info/requires.txt
+AutoBookmark.egg-info/top_level.txt
