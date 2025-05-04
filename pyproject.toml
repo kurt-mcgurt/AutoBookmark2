@@ -7,7 +7,8 @@ dependencies = [
   "google-genai",
   "pydantic",
   "pillow",
-  "gradio"
+  "gradio",
+  "sift-stack-py>=0.5.2",
 ]
 
 [build-system]
